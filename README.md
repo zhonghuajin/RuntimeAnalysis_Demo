@@ -4,7 +4,7 @@
 
 ## 一、使用方法：
 
-1. 执行sql文件；
+1. 执行call_logs.sql文件；
 
 2. 启动程序：java -jar logs-analysis-1.0.jar
 
