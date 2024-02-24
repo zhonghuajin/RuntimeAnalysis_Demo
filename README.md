@@ -1,6 +1,6 @@
 # RuntimeAnalysis_EducationalVersion
 
-本项目用于展示插桩工具套件分析系统源码的效果。
+本项目用于展示插桩工具套件分析源码的效果。
 
 ## 一、使用方法：
 
@@ -14,7 +14,7 @@
 
 ![ ](https://raw.githubusercontent.com/zhonghuajin/RuntimeAnalysis_EducationalVersion/master/%E6%8F%92%E6%A1%A9%E5%A5%97%E4%BB%B6%E6%9E%B6%E6%9E%84.jpg)
 
-本项目是架构中“日志分析系统”的简化版，删除了日志管理部分的功能，只保留了展示部分。
+本项目是上述架构中“日志分析系统”部分的简化版，只保留了前端展示部分。
 
 ## 三、语言支持
 
@@ -31,3 +31,5 @@
 5. c/c++/objective-c
 
 6. c#
+
+目前call_logs.sql中只包含了java、c、c++的例子，其它语言的示例正在梳理中。
