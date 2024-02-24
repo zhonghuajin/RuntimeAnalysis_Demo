@@ -34,4 +34,4 @@
 
 6. c#
 
-目前call_logs.sql中只包含了java、c、c++的例子，其它语言的示例正在梳理中。
+目前call_logs.sql只包含java(activiti)、c(redis)、c++(mysql)的例子，其它示例正在梳理中。
