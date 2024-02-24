@@ -18,7 +18,7 @@
 
 ![ ](https://raw.githubusercontent.com/zhonghuajin/RuntimeAnalysis_EducationalVersion/master/%E6%8F%92%E6%A1%A9%E5%A5%97%E4%BB%B6%E6%9E%B6%E6%9E%84.jpg)
 
-本项目是上述架构中“日志分析系统”部分的简化版，只保留了前端展示部分。
+本项目截取了“日志分析系统”的前端部分用作效果展示。
 
 ## 三、语言支持
 
