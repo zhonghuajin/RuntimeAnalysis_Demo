@@ -1,4 +1,4 @@
-# RuntimeAnalysis_TeachingEdition
+# RuntimeAnalysis_EducationalVersion
 
 本项目用于展示插桩工具套件分析系统源码的效果。
 
