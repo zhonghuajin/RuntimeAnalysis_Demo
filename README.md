@@ -2,7 +2,7 @@
 
 本项目用于展示本人研发的跨语言插桩工具套件分析源码的效果。
 
-目前包含java(activiti)、c(redis)、c++(mysql)的例子，其它示例陆续补充中。
+目前包含java(activiti)、c(redis)、c++(mysql)、js(element-ui)的少部分代码的例子，其它示例陆续补充中。
 
 > 对插桩技术感兴趣可以加QQ群：732447253
 
