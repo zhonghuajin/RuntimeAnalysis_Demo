@@ -6,7 +6,7 @@ RuntimeAnalysis目前支持c\c++\js(ts\vue)\go\c#\java\go\python。
 
 通过RuntimeAnalysis可以捕捉基于上述语言实现的系统、框架、第三方库在各种场景下做出的响应，也就是场景触发的核心源码，并对源码做出分析。
 
-本项目（RuntimeAnalysis_EducationalVersion）源于RuntimeAnalysis的源码分析结果展示部分，提供了目前支持的语言的例子。
+本项目（RuntimeAnalysis_EducationalVersion）源于RuntimeAnalysis的源码分析结果展示部分，提供了目前支持的语言的例子，用于展示RuntimeAnalysis分析源码的效果。
 
 ## 使用方法：
 
