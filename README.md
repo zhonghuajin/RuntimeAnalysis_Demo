@@ -18,6 +18,8 @@ RuntimeAnalysis目前支持c\c++\js(ts\vue)\go\c#\java\go\python。
 
 3. 访问 http://localhost:8087
 
+4. 选择语言及场景查看各种场景触发的核心代码（**点击'函数名'列可查看函数源码**）
+
 ---
 
 ## 补充：
