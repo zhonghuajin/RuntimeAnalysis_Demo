@@ -72,7 +72,7 @@ RuntimeAnalysis的核心技术路线是代码插桩。RuntimeAnalysis基于各�
 
 2. RuntimeAnalysis_FRIDA
    
-   andriod静态插桩；
+   andriod动态插桩；
 
 3. RuntimeAnalysis_JAVA
    
