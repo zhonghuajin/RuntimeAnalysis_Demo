@@ -12,13 +12,21 @@ RuntimeAnalysis目前支持c\c++\js(ts\vue)\go\c#\java\go\python。
 
 ## 使用方法：
 
-1. 执行call_logs.sql文件；
+1. 执行call_logs.sql文件(<mark>不支持mysql 8，请使用mysql 5.7</mark>)
+   
+   ```sql
+   mysql --max_allowed_packet=100M -u root -p database < call_logs.sql
+   ```
 
-2. 启动程序：java -jar logs-analysis-1.0.jar
+2. 启动程序
+   
+   ```
+   java -jar logs-analysis-1.0.jar访问 http://localhost:8087
+   ```
 
-3. 访问 http://localhost:8087
-
-4. 选择语言及场景查看各种场景触发的核心代码（**点击'函数名'列可查看函数源码**）
+3. 选择语言及场景查看各种场景触发的核心代码（**点击'函数名'列可查看函数源码**）
+   
+   
 
 ---
 
