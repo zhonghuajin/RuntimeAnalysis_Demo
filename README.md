@@ -2,13 +2,29 @@
 
 ---
 
-RuntimeAnalysis是本人研发的一套高效的源码分析工具，可应用于源码阅读、系统重构、信创、二次开发、BUG定位等场景。
+RuntimeAnalysis是本人开发的一套高效的源码分析工具套件，可应用于源码阅读、系统重构、信创、二次开发、BUG定位等场景。
 
-RuntimeAnalysis目前支持c\c++\js(ts\vue)\go\c#\java\go\python。
+RuntimeAnalysis目前支持以下语言：
 
-通过RuntimeAnalysis可以捕捉基于上述语言实现的系统、框架、第三方库在各种场景下做出的响应，也就是场景触发的核心源码，并对源码做出分析。
+1. c
 
-本项目（RuntimeAnalysis_EducationalVersion）源于RuntimeAnalysis的源码分析结果展示部分，提供了目前支持的语言的例子，用于展示RuntimeAnalysis分析源码的效果。
+2. c++
+
+3. objective-c（理论上支持）
+
+4. js|ts|vue
+
+5. go
+
+6. java
+
+7. c#
+
+8. python
+
+通过RuntimeAnalysis可以捕捉基于上述语言实现的系统、框架、第三方库在各种场景下的响应，获得场景触发的核心源码，并对源码做出分析、展示。
+
+本项目（RuntimeAnalysis_EducationalVersion）简化了RuntimeAnalysis工具套件中源码分析展示部分的功能，只提供例子，用于展示RuntimeAnalysis分析源码的效果。
 
 ## 使用方法：
 
