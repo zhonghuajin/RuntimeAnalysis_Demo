@@ -54,7 +54,7 @@ RuntimeAnalysis工作套件主要包含插桩、日志解析、日志分析三�
    
    ![ ](https://raw.githubusercontent.com/zhonghuajin/RuntimeAnalysis_EducationalVersion/master/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.png)
 
-### 访问demo
+### 直接访问demo
 
 http://110.41.172.63:8087
 
