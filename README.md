@@ -32,6 +32,8 @@ RuntimeAnalysis工作套件主要包含插桩、日志解析、日志分析三�
 
 ## 使用方法：
 
+### 自行搭建环境
+
 1. 执行call_logs.sql文件(<mark>不支持mysql 8，请使用mysql 5.7</mark>)
    
    ```sql
@@ -51,6 +53,10 @@ RuntimeAnalysis工作套件主要包含插桩、日志解析、日志分析三�
    点击下拉菜单，选择场景即可观看各种场景涉及的核心代码的解析。
    
    ![ ](https://raw.githubusercontent.com/zhonghuajin/RuntimeAnalysis_EducationalVersion/master/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.png)
+
+### 访问demo
+
+http://110.41.172.63:8087
 
 ---
 
