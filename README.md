@@ -21,12 +21,16 @@ RuntimeAnalysis目前支持c\c++\js(ts\vue)\go\c#\java\go\python。
 2. 启动程序
    
    ```
-   java -jar logs-analysis-1.0.jar访问 http://localhost:8087
+   java -jar logs-analysis-1.0.jar
    ```
+   
+   系统启动后，通过浏览器访问 http://localhost:8087
 
-3. 选择语言及场景查看各种场景触发的核心代码（**点击'函数名'列可查看函数源码**）
+3. 选择语言及场景查看各种场景触发的核心代码
    
+   点击下拉菜单，选择场景即可观看各种场景涉及的核心代码的解析。
    
+   ![ ](https://raw.githubusercontent.com/zhonghuajin/RuntimeAnalysis_EducationalVersion/master/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.png)
 
 ---
 
