@@ -62,7 +62,7 @@ RuntimeAnalysis的核心技术路线是代码插桩。RuntimeAnalysis基于各�
 
 ![ ](https://raw.githubusercontent.com/zhonghuajin/RuntimeAnalysis_EducationalVersion/master/%E6%8F%92%E6%A1%A9%E5%A5%97%E4%BB%B6%E6%9E%B6%E6%9E%84.jpg)
 
-<mark>本项目截取了“日志分析系统”的前端部分用作效果展示。</mark>
+
 
 ### 二、github项目列表
 
