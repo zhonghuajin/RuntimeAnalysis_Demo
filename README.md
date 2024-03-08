@@ -10,13 +10,17 @@ RuntimeAnalysis目前支持以下语言：
 
 2. c++
 
-3. objective-c（理论上支持）
+3. objective-c
+   
+   理论上支持，没有验证
 
 4. js|ts|vue
 
 5. go
 
 6. java
+   
+   对andriod的支持不完整
 
 7. c#
 
