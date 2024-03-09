@@ -32,6 +32,10 @@ RuntimeAnalysis工作套件主要包含插桩、日志解析、日志分析三�
 
 ## 使用方法：
 
+### 直接访问demo
+
+[http://110.41.172.63:8087](http://110.41.172.63:8087)
+
 ### 自行搭建环境
 
 1. 执行call_logs.sql文件(<mark>不支持mysql 8，请使用mysql 5.7</mark>)
@@ -54,17 +58,13 @@ RuntimeAnalysis工作套件主要包含插桩、日志解析、日志分析三�
    
    ![ ](https://raw.githubusercontent.com/zhonghuajin/RuntimeAnalysis_EducationalVersion/master/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.png)
 
-### 直接访问demo
-
-http://110.41.172.63:8087
-
 ---
 
 ## 补充：
 
 ### 一、RuntimeAnalysis架构图
 
-RuntimeAnalysis的核心技术路线是代码插桩。RuntimeAnalysis基于各种语言的生态中对插桩的支持，实现了各种语言的代码插桩以及源码分析相关的功能。以下是RuntimeAnalysis的架构图：
+RuntimeAnalysis的核心技术路线是代码插桩。RuntimeAnalysis基于各种**语言的生态中对插桩的支持**以及**ChatGPT**，实现了各种语言的代码插桩以及源码分析相关的功能。以下是RuntimeAnalysis的架构图：
 
 ![ ](https://raw.githubusercontent.com/zhonghuajin/RuntimeAnalysis_EducationalVersion/master/%E6%8F%92%E6%A1%A9%E5%A5%97%E4%BB%B6%E6%9E%B6%E6%9E%84.jpg)
 
@@ -116,11 +116,11 @@ RuntimeAnalysis的核心技术路线是代码插桩。RuntimeAnalysis基于各�
     
     js静态插桩。
 
-**由于无法投入大量精力维护，所以RuntimeAnalysis不开源，项目都在githu私有空间。有兴趣可以邮件联系：[Email Me](mailto:thinwing&#64;163.com)**
+**由于无法投入大量精力维护，所以RuntimeAnalysis不开源，项目都在github私有空间。有兴趣可以邮件联系：[Email Me](mailto:thinwing&#64;163.com)**
 
 ### 三、示例列表
 
-本项目中提供了目前支持的语言的例子：
+目前支持的语言本项目中提供了都提供了示例：
 
 1. **c语言**
    
