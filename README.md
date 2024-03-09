@@ -26,7 +26,7 @@ RuntimeAnalysis目前支持以下语言：
 
 通过RuntimeAnalysis可以捕捉基于上述语言实现的系统、框架、第三方库在各种场景下的响应，获得场景触发的核心源码，并对源码做出分析、展示。
 
-RuntimeAnalysis工作套件主要包含插桩、日志解析、日志分析三部分，本项目（RuntimeAnalysis_EducationalVersion）简化了RuntimeAnalysis工具套件中日志分析部分的功能，只提供例子，用于展示RuntimeAnalysis分析源码的效果。
+RuntimeAnalysis工作套件主要包含插桩、日志解析、日志分析三部分，本项目（RuntimeAnalysis_EducationalVersion）简化了RuntimeAnalysis工具套件中日志分析的功能，只提供源码分析结果的例子，用于展示RuntimeAnalysis分析源码的效果。
 
 ## 使用方法：
 
