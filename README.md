@@ -10,21 +10,21 @@ RuntimeAnalysis目前支持以下语言：
 
 2. c++
 
-3. objective-c
-   
-   理论上支持，没有验证
+3. objective-c（理论上支持，没验证）
 
-4. js|ts|vue
+4. js
 
-5. go
+5. ts
 
-6. java
-   
-   对andriod的支持不完整
+6. vue
 
-7. c#
+7. go
 
-8. python
+8. java（对andriod的支持不完整）
+
+9. c#
+
+10. python
 
 通过RuntimeAnalysis可以捕捉基于上述语言实现的系统、框架、第三方库在各种场景下的响应，获得场景触发的核心源码，并对源码做出分析、展示。
 
