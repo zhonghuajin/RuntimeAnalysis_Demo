@@ -118,7 +118,7 @@ RuntimeAnalysis的核心技术路线是代码插桩。RuntimeAnalysis基于各�
 
 ### 三、示例列表
 
-目前支持的语言本项目中提供了都提供了示例：
+RuntimeAnalysis目前支持的语言本项目中都提供了示例：
 
 1. **c语言**
    
