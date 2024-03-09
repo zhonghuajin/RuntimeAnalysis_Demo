@@ -104,7 +104,7 @@ RuntimeAnalysis的核心技术路线是代码插桩。RuntimeAnalysis基于各�
 
 9. RuntimeAnalysis_C_CPP
    
-   c、cpp、objective-c静态插桩  +  c、cpp动态插桩；
+   包含c、cpp、objective-c静态插桩 以及 c、cpp动态插桩的功能；
 
 10. RuntimeAnalysis_GO
     
