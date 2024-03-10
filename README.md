@@ -54,7 +54,7 @@ RuntimeAnalysis工作套件主要包含插桩、日志解析、日志分析三�
    
    点击下拉菜单，选择场景即可观看各种场景涉及的核心代码的解析。
    
-   ![ ](https://raw.githubusercontent.com/zhonghuajin/RuntimeAnalysis_EducationalVersion/master/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.png)
+   ![ ](https://gitee.com/zhonghuajin1979/RuntimeAnalysis_EducationalVersion/raw/master/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.png)
 
 ---
 
@@ -64,7 +64,7 @@ RuntimeAnalysis工作套件主要包含插桩、日志解析、日志分析三�
 
 RuntimeAnalysis的核心技术路线是代码插桩。RuntimeAnalysis基于各种**语言的生态中对插桩的支持**以及**ChatGPT**，实现了各种语言的代码插桩以及源码分析相关的功能。以下是RuntimeAnalysis的架构图：
 
-![ ](https://raw.githubusercontent.com/zhonghuajin/RuntimeAnalysis_EducationalVersion/master/%E6%8F%92%E6%A1%A9%E5%A5%97%E4%BB%B6%E6%9E%B6%E6%9E%84.jpg)
+![ ](https://gitee.com/zhonghuajin1979/RuntimeAnalysis_EducationalVersion/raw/master/%E6%8F%92%E6%A1%A9%E5%A5%97%E4%BB%B6%E6%9E%B6%E6%9E%84.jpg)
 
 ### 二、github项目列表
 
