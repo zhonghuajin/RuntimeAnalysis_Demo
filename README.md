@@ -24,6 +24,8 @@ RuntimeAnalysis目前支持以下语言：
 
 9. python
 
+10. rust
+
 通过RuntimeAnalysis可以捕捉基于上述语言实现的系统、框架、第三方库在各种场景下的响应，获得场景触发的核心源码，并对源码做出分析、展示。
 
 RuntimeAnalysis工作套件主要包含插桩、日志解析、日志分析三部分，本项目（RuntimeAnalysis_EducationalVersion）简化了RuntimeAnalysis工具套件中日志分析的功能，只提供源码分析结果的例子，用于展示RuntimeAnalysis分析源码的效果。
@@ -39,7 +41,7 @@ RuntimeAnalysis工作套件主要包含插桩、日志解析、日志分析三�
 1. 执行call_logs.sql文件(<mark>不支持mysql 8，请使用mysql 5.7</mark>)
    
    ```sql
-   mysql --max_allowed_packet=100M -u root -p database < call_logs.sql
+   mysql --max_allowed_packet=500M -u root -p call_logs < call_logs.sql
    ```
 
 2. 启动程序
@@ -112,7 +114,11 @@ RuntimeAnalysis的核心技术路线是代码插桩。RuntimeAnalysis基于各�
 
 11. RuntimeAnalysis_JS
     
-    js静态插桩。
+    js静态插桩
+
+12. RuntimeAnalysis_Rust
+
+   rust静态插桩。
 
 **由于无法投入大量精力维护，所以RuntimeAnalysis不开源，项目都在github私有空间。有兴趣可以邮件联系：[Email Me](mailto:thinwing&#64;163.com)**
 
@@ -151,3 +157,7 @@ RuntimeAnalysis目前支持的语言本项目中都提供了示例：
 8. **c#**
    
    以ShareX截图工具的Sharex主项目-启动、ShareX主项目-截取矩形区域、ShareX主项目-截图活动窗口等场景为例子。
+
+9. **rust**
+
+   以bat(rust版本的cat命令)的查看文件内容等场景为例子。
