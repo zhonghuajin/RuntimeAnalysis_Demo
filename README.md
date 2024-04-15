@@ -148,7 +148,7 @@ RuntimeAnalysis目前支持的语言本项目中都提供了示例：
 
 6. **go语言**
    
-   以k8s 1.28.2 的kubelet-启动、kubelet-空转等场景为例子；
+   以k8s 1.28.2 的删除和创建pod为分析场景，分析这两个场景下kubelet、kube-scheduler、kube-controller-manager、kube-apiserver触发的核心代码；
 
 7. **python**
    
