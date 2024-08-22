@@ -30,7 +30,7 @@ RuntimeAnalysis目前支持以下语言：
 
 9. rust。项目地址：https://github.com/zhonghuajin/RuntimeAnalysis_Rust
 
-RuntimeAnalysis的核心概念是场景，场景定义为某个操作触发系统的一系列相应。
+RuntimeAnalysis的核心概念是场景，场景定义为某个操作触发系统的一系列响应。
 
 通过RuntimeAnalysis可以捕捉基于上述语言实现的系统、框架、第三方库在各种场景下的响应，获得场景触发的核心源码，并对源码做出分析、展示。
 
