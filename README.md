@@ -6,25 +6,23 @@ RuntimeAnalysis是本人开发的一套高效的源码分析工具套件，可�
 
 RuntimeAnalysis目前支持以下语言：
 
-1. c
+1. c。项目地址；https://github.com/zhonghuajin/RuntimeAnalysis_C_CPP
 
-2. c++
+2. c++。项目地址；https://github.com/zhonghuajin/RuntimeAnalysis_C_CPP
 
-3. objective-c（理论上支持，没验证）
+3. objective-c（理论上支持，没验证）。项目地址；https://github.com/zhonghuajin/RuntimeAnalysis_C_CPP
 
-4. js（包含vue的支持）
+4. js\ts（包含vue\react\Angular的支持）。项目地址；https://github.com/zhonghuajin/RuntimeAnalysis_JS
 
-5. ts
+5. go。项目地址：https://github.com/zhonghuajin/RuntimeAnalysis_GO
 
-6. go
+6. java（对andriod的支持不完整）。动态插桩项目地址：https://github.com/zhonghuajin/RuntimeAnalysis_JAVA_D；静态插桩项目地址：https://github.com/zhonghuajin/RuntimeAnalysis_JAVA；安卓插桩项目地址：https://github.com/zhonghuajin/RuntimeAnalysis_FRIDA
 
-7. java（对andriod的支持不完整）
+7. c#。项目地址：https://github.com/zhonghuajin/RuntimeAnalysis_CSHARP
 
-8. c#
+8. python。项目地址：https://github.com/zhonghuajin/RuntimeAnalysis_PYTHON
 
-9. python
-
-10. rust
+9. rust。项目地址：https://github.com/zhonghuajin/RuntimeAnalysis_Rust
 
 通过RuntimeAnalysis可以捕捉基于上述语言实现的系统、框架、第三方库在各种场景下的响应，获得场景触发的核心源码，并对源码做出分析、展示。
 
@@ -115,8 +113,6 @@ RuntimeAnalysis的核心技术路线是代码插桩。RuntimeAnalysis基于各�
 12. RuntimeAnalysis_Rust
 
    rust静态插桩。
-
-**由于无法投入大量精力维护，所以RuntimeAnalysis不开源，项目都在github私有空间。有兴趣可以邮件联系：[Email Me](mailto:thinwing&#64;163.com)**
 
 ### 三、示例列表
 
