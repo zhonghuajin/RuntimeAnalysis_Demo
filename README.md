@@ -30,11 +30,7 @@ RuntimeAnalysis目前支持以下语言：
 
 RuntimeAnalysis工作套件主要包含插桩、日志解析、日志分析三部分，本项目（RuntimeAnalysis_EducationalVersion）简化了RuntimeAnalysis工具套件中日志分析的功能，只提供源码分析结果的例子，用于展示RuntimeAnalysis分析源码的效果。
 
-## 使用方法：
-
-### 直接访问demo
-
-[http://110.41.172.63:8087](http://110.41.172.63:8087)
+## 体验方法：
 
 ### 自行搭建环境
 
@@ -56,7 +52,7 @@ RuntimeAnalysis工作套件主要包含插桩、日志解析、日志分析三�
    
    点击下拉菜单，选择场景即可观看各种场景涉及的核心代码的解析。
    
-   ![ ](https://gitee.com/zhonghuajin1979/RuntimeAnalysis_EducationalVersion/raw/master/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.png)
+   ![ ](https://github.com/zhonghuajin/RuntimeAnalysis_EducationalVersion/blob/master/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.png)
 
 ---
 
