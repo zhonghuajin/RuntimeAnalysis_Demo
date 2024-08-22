@@ -2,7 +2,7 @@
 
 ---
 
-RuntimeAnalysis是本人开发的一套高效的源码分析工具套件，可应用于源码阅读、系统重构、信创、二次开发、BUG定位等场景。
+RuntimeAnalysis是本人基于10多年工作遇到的问题的经验总结，原创开发的一套的源码分析工具套件，可应用于源码阅读分析、系统重构、软件国产化、二次开发、BUG定位等场景。
 
 RuntimeAnalysis目前支持以下语言：
 
@@ -24,9 +24,11 @@ RuntimeAnalysis目前支持以下语言：
 
 9. rust。项目地址：https://github.com/zhonghuajin/RuntimeAnalysis_Rust
 
+RuntimeAnalysis的核心概念是场景，场景定义为某个操作触发系统的一系列相应。
+
 通过RuntimeAnalysis可以捕捉基于上述语言实现的系统、框架、第三方库在各种场景下的响应，获得场景触发的核心源码，并对源码做出分析、展示。
 
-RuntimeAnalysis工作套件主要包含插桩、日志解析、日志分析三部分，本项目（RuntimeAnalysis_EducationalVersion）简化了RuntimeAnalysis工具套件中日志分析的功能，只提供源码分析结果的例子，用于展示RuntimeAnalysis分析源码的效果。
+RuntimeAnalysis工作套件主要包含插桩、日志解析、日志分析三部分，本项目（RuntimeAnalysis_EducationalVersion）简化了RuntimeAnalysis工具套件中日志分析的功能，只提供源码分析结果的例子，用于展示RuntimeAnalysis分析源码的效果。<mark>具体针对各种语言的分析请使用上面列表提供的对应的工具。</mark>
 
 ## 体验方法：
 
