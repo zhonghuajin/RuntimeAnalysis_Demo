@@ -40,6 +40,7 @@ RuntimeAnalysis工作套件主要包含插桩、日志解析、日志分析三�
 
 ### 自行搭建环境
 
+
 1. 执行call_logs.sql文件(<mark>不支持mysql 8，请使用mysql 5.7</mark>)
    
    ```sql
@@ -47,6 +48,8 @@ RuntimeAnalysis工作套件主要包含插桩、日志解析、日志分析三�
    ```
 
 2. 启动程序
+  
+  依赖本地的redis服务，运行前请先启动本地的redis，启动redis后执行下面命令即可：
    
    ```
    java -jar logs-analysis-1.0.jar
@@ -54,12 +57,12 @@ RuntimeAnalysis工作套件主要包含插桩、日志解析、日志分析三�
    
    系统启动后，通过浏览器访问 http://localhost:8087
 
-3. 选择语言及场景查看各种场景触发的核心代码
-   
-   点击下拉菜单，选择场景即可观看各种场景涉及的核心代码的解析。
-   
-   ![ ](https://github.com/zhonghuajin/RuntimeAnalysis_EducationalVersion/blob/master/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.png)
+3. 切换到"已命名场景"标签，选择查看各种场景下涉及的和核心代码及解释
 
+   ```
+   点击页面中任意一行的任意地方可以查看函数的源码
+   ```
+   
 ---
 
 ## 补充：
