@@ -12,7 +12,7 @@ RuntimeAnalysis目前支持以下语言：
 
 3. objective-c（理论上支持，没验证）。项目地址；https://github.com/zhonghuajin/RuntimeAnalysis_C_CPP
 
-4. js\ts（包含vue\react\Angular的支持）。项目地址；https://github.com/zhonghuajin/RuntimeAnalysis_JS
+4. js\ts（包含vue\react\Angular\html的支持）。项目地址；https://github.com/zhonghuajin/RuntimeAnalysis_JS
 
 5. go。项目地址：https://github.com/zhonghuajin/RuntimeAnalysis_GO
 
